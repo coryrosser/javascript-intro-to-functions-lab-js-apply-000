@@ -3,7 +3,6 @@ function shout(string) {
 }
 
 function whisper(string) {
-<<<<<<< HEAD
   return string.toLowerCase();
 }
 
@@ -25,7 +24,4 @@ function sayHiToGrandma(string) {
   else if (string.toLowerCase() === string){
     return "I can't hear you!";
   }
-=======
-  
->>>>>>> fce03810f238c32a0370ecd66e08805038424259
 }
